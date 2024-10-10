@@ -1,15 +1,13 @@
+Flask==2.3.2
+tensorflow==2.13.0
+numpy==1.24.3
+gunicorn==20.1.0
 
-tensorflow==2.15.0
+# tensorflow==2.15.0
 pandas 
-numpy 
+# numpy 
 scikit-learn
 tensorboard
 matplotlib
 streamlit
 scikeras
-
-Flask==2.2.5
-# tensorflow==2.12.0
-pickle5==0.0.11
-gunicorn==20.1.0
-
